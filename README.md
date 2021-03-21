@@ -15,8 +15,9 @@ This is a toolbox where I regroup all the data science code snippets by theme fo
 
 
 - [80 plots step-by-step](https://www.kaggle.com/elvinagammed/plotting-with-python-learn-80-plots-step-by-step)
-- Make a basic graph
-- [Make a 3D graph of a dataset for classification (bonus: interactive plot with Plotly)](https://github.com/IAbeteEtMechante/Data_Science/blob/main/graph/make_a_3D_graph_for_classification.ipynb)
+- Basic graph
+- [3D graph of a dataset for classification (bonus: interactive plot with Plotly)](https://github.com/IAbeteEtMechante/Data_Science/blob/main/graph/3D_graph_for_classification.ipynb)
+- [Subplots](https://github.com/IAbeteEtMechante/Data_Science/blob/main/graph/subplots.ipynb)
 
 
 
