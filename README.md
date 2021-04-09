@@ -79,6 +79,10 @@ These are the most common Machine Learning and Data Mining algorithms.
 - Naive Bayes
 - CART
 
+## Pytorch
+
+- [how to get minibatches if your input is a big tensor?](https://github.com/IAbeteEtMechante/Data_Science/blob/main/Pytorch/minibatchs.py)
+
 
 
 
