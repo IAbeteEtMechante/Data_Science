@@ -9,7 +9,7 @@ This is a toolbox where I regroup all the data science code snippets by theme fo
 <br>
 
 
-## Graph
+## Plots
 
 ### Matplotlib
 
@@ -19,7 +19,9 @@ This is a toolbox where I regroup all the data science code snippets by theme fo
 - [3D graph of a dataset for classification (bonus: interactive plot with Plotly)](https://github.com/IAbeteEtMechante/Data_Science/blob/main/graph/3D_graph_for_classification.ipynb)
 - [Subplots](https://github.com/IAbeteEtMechante/Data_Science/blob/main/graph/subplots.ipynb)
 
+## Jupyter notebooks tips
 
+- [how to download all files in a path on Jupyter notebook server](https://stackoverflow.com/questions/43042793/download-all-files-in-a-path-on-jupyter-notebook-server)
 
 ## Algorithms
 
