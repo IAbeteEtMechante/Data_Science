@@ -21,7 +21,7 @@ This is a toolbox where I regroup all the data science code snippets by theme fo
 
 ## Jupyter notebooks tips
 
-- [how to download all files in a path on Jupyter notebook server](https://stackoverflow.com/questions/43042793/download-all-files-in-a-path-on-jupyter-notebook-server)
+- [how to download all files in a path on Jupyter notebook server](https://stackoverflow.com/a/47355754)
 
 ## Algorithms
 
